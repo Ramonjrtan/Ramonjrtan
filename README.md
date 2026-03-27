@@ -173,9 +173,9 @@ Even without prior domain experience, I quickly:
 
 # 📫 Let's Connect
 
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (optional)
+- 💼 LinkedIn: https://www.linkedin.com/in/ramon-t-91946710/
+- 📧 Email: ramonjrtan@gmail.com
 
 ---
 
-⭐ *This portfolio demonstrates how I test real systems — not just features, but full business workflows.*
+⭐ *This portfolio demonstrates how I test systems — not just features, but full business workflows.*
