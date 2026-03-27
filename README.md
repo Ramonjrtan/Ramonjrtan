@@ -12,7 +12,6 @@ I specialize in **end-to-end system validation** — ensuring systems behave cor
 
 ### 📊 Retail Payments Data Warehouse QA
 🔗 https://github.com/Ramonjrtan/retail-payments-data-qa-portfolio-  
-End-to-end Data Warehouse testing using retail payments scenario  
 ✔ ETL validation  
 ✔ Data reconciliation  
 ✔ Dashboard (BI) verification  
@@ -21,7 +20,6 @@ End-to-end Data Warehouse testing using retail payments scenario
 
 ### 💰 FinTech Digital Wallet (LiquidPay)
 🔗 https://github.com/Ramonjrtan/fintech-wallet-testing-liquidpay  
-Real-world wallet testing approach based on release readiness  
 ✔ Top-up, transfer, payment flows  
 ✔ Edge cases & negative scenarios  
 ✔ Acceptance-based validation  
@@ -60,6 +58,16 @@ Real-world wallet testing approach based on release readiness
 
 ---
 
+### 💳 POS Transaction Flow Simulation (ISO8583-style)
+🔗 https://github.com/Ramonjrtan/pos-transaction-flow-simulation-iso8583-style  
+✔ Authorization, reversal, settlement flows  
+✔ Transaction lifecycle validation  
+✔ Payment message simulation (ISO8583-style)  
+
+👉 *Strong focus on real-world payment processing and reconciliation logic*
+
+---
+
 ## ⚙️ IoT / Embedded Systems
 
 ### 📡 IoT & Embedded QA Portfolio
@@ -67,6 +75,16 @@ Real-world wallet testing approach based on release readiness
 ✔ Device → API → Backend → Dashboard  
 ✔ Communication protocols validation  
 ✔ End-to-end data flow testing  
+
+---
+
+### 🖨 Firmware QA – Printer Testing
+🔗 https://github.com/Ramonjrtan/firmware-qa-embedded-testing-portfolio-printer  
+✔ Print, scan, copy workflows  
+✔ Network and device interaction  
+✔ Firmware behavior validation  
+
+👉 *Simulates real-world embedded system testing similar to printer and device environments*
 
 ---
 
@@ -155,6 +173,7 @@ I have successfully transitioned across industries:
 - SaaS and Enterprise Systems  
 
 Even without prior domain experience, I quickly:
+
 ✔ Understand system flows  
 ✔ Identify critical business logic  
 ✔ Contribute to testing strategy and execution  
