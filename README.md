@@ -138,7 +138,7 @@ I specialize in end-to-end system validation — ensuring systems behave correct
 ---
 
 ### 🌲 Cypress Automation Framework
-🔗 https://github.com/Ramonjrtan/Cypress-Project  
+🔗 https://github.com/Ramonjrtan/cypress-saas-automation-framework
 ✔ Modular test structure  
 ✔ UI regression automation  
 ✔ CI-ready framework  
