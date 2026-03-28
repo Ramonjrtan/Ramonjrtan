@@ -2,7 +2,7 @@
 
 🎯 Senior QA Engineer with 20+ years of experience delivering high-quality software across FinTech, SaaS, IoT, and Enterprise platforms.
 
-I specialize in **end-to-end system validation** — ensuring systems behave correctly from **data input → processing → output**, with strong focus on **data integrity, workflows, and real-world business scenarios**.
+I specialize in **end-to-end system validation** — ensuring systems behave correctly from **data input → API processing → backend → output**, with strong focus on **data integrity, workflows, and real-world business scenarios**.
 
 ---
 
@@ -93,7 +93,7 @@ All implementations, test cases, and workflows are **generalized** and do not in
 * Real-time and asynchronous data processing
 * Offline, delayed, and edge case scenario testing
 
-> Inspired by real-world telematics systems and documentation (e.g., Astrata), focusing on **IoT data flow, system reliability, and real-time processing**
+> Inspired by real-world telematics systems, focusing on **IoT data flow, system reliability, and real-time processing**
 
 ---
 
@@ -185,6 +185,22 @@ All implementations, test cases, and workflows are **generalized** and do not in
 
 ## 🔗 API & Backend Testing
 
+#### 📬 API Testing Portfolio (Restful Booker)
+
+🔗 https://github.com/Ramonjrtan/api-testing-portfolio-restful-booker
+
+* Manual API testing using Postman
+* Authentication and token validation
+* CRUD operations (Create, Read, Update, Delete)
+* Request and response validation (headers, status codes, JSON payloads)
+* Negative testing and error handling scenarios
+* End-to-end data validation across API workflows
+* Structured test cases, execution reports, and defect tracking
+
+> Focus: Ensuring APIs behave correctly from **request → processing → response**, with emphasis on **data integrity, reliability, and real-world scenarios**
+
+---
+
 #### 📬 Postman API Automation
 
 🔗 https://github.com/Ramonjrtan/postman-user-flow-automation
@@ -192,6 +208,18 @@ All implementations, test cases, and workflows are **generalized** and do not in
 * Request chaining
 * Token handling
 * Automated API workflows
+
+---
+
+## 🔍 API Testing Focus
+
+In addition to UI and system testing, I validate APIs as a critical layer of system behavior:
+
+* Verifying request and response structures
+* Validating authentication and authorization flows
+* Testing negative and edge-case scenarios
+* Ensuring consistency between API and backend data
+* Supporting integration and microservices validation
 
 ---
 
@@ -241,4 +269,4 @@ Even without prior domain experience, I consistently:
 
 ---
 
-⭐ This portfolio demonstrates how I test systems — from user actions to backend processing — ensuring accuracy, reliability, and real-world impact.
+⭐ This portfolio demonstrates how I test systems — from user actions to API processing and backend behavior — ensuring accuracy, reliability, and real-world impact.
