@@ -1,211 +1,195 @@
-# 👋 Hi, I'm Ramon Tan Jr
+👋 Hi, I'm Ramon Tan Jr
 
-🎯 Senior QA Engineer with 20+ years of experience delivering high-quality software across FinTech, SaaS, IoT and Enterprise platforms.
+🎯 Senior QA Engineer with 20+ years of experience delivering high-quality software across FinTech, SaaS, IoT, and Enterprise platforms.
 
-I specialize in end-to-end system validation — ensuring systems behave correctly from data input to processing to output, with strong focus on data integrity, workflows, and real-world business scenarios.
+I specialize in end-to-end system validation—ensuring systems behave correctly from data input → processing → output, with strong focus on data integrity, workflows, and real-world business scenarios.
 
----
+⚠️ Disclaimer
 
-# 🚀 🔥 Featured QA Portfolio
+This portfolio contains personal QA projects and simulations inspired by real-world systems.
 
-## 💳 FinTech / Payments / Banking
+All implementations, test cases, and workflows are generalized and do not include any proprietary or confidential information from any company or client.
 
-### 📊 Retail Payments Data Warehouse QA
-🔗 https://github.com/Ramonjrtan/retail-payments-data-qa-portfolio-  
-✔ ETL validation  
-✔ Data reconciliation  
-✔ Dashboard (BI) verification  
+🚀 Featured QA Portfolio
+💳 FinTech / Payments / Banking
+📊 Retail Payments Data Warehouse QA
 
----
+🔗 https://github.com/Ramonjrtan/retail-payments-data-qa-portfolio-
 
-### 💰 FinTech Digital Wallet (LiquidPay)
-🔗 https://github.com/Ramonjrtan/fintech-wallet-testing-liquidpay  
-✔ Top-up, transfer, payment flows  
-✔ Edge cases and negative scenarios  
-✔ Acceptance-based validation  
+✔ ETL validation
+✔ Data reconciliation
+✔ BI dashboard verification
 
----
+💰 FinTech Digital Wallet (LiquidPay)
 
-### 🪙 Crypto Exchange QA Portfolio
-🔗 https://github.com/Ramonjrtan/crypto-qa-portfolio  
-✔ Wallet systems  
-✔ Trading lifecycle  
-✔ API and security validation  
+🔗 https://github.com/Ramonjrtan/fintech-wallet-testing-liquidpay
 
----
+✔ Top-up, transfer, and payment workflows
+✔ Edge cases and negative scenarios
+✔ Acceptance-based validation
 
-### 🔐 Binance Web3 Wallet Test Cases
-🔗 https://github.com/Ramonjrtan/binance-web3-wallet-test-cases  
-✔ Wallet creation and recovery  
-✔ Transactions and gas fees  
-✔ dApp interaction  
+🪙 Crypto Exchange QA Portfolio
 
----
+🔗 https://github.com/Ramonjrtan/crypto-qa-portfolio
 
-### 📈 Binance Manual Test Cases
-🔗 https://github.com/Ramonjrtan/binance-manual-test-cases  
-✔ Onboarding and KYC  
-✔ Funding and trading  
-✔ Execution tracking  
+✔ Wallet systems and balances
+✔ Trading lifecycle validation
+✔ API and transaction verification
 
----
+🔐 Web3 Wallet Test Cases
 
-### 🏦 T24 Core Banking QA Portfolio
-🔗 https://github.com/Ramonjrtan/T24-QA-Portfolio  
-✔ Accounts, transactions, fund transfer  
-✔ Maker-checker validation  
-✔ Core banking workflows  
+🔗 https://github.com/Ramonjrtan/binance-web3-wallet-test-cases
 
----
+✔ Wallet creation and recovery
+✔ Transactions and gas fee validation
+✔ dApp interaction scenarios
 
-### 💳 POS Transaction Flow Simulation (ISO8583-style)
-🔗 https://github.com/Ramonjrtan/pos-transaction-flow-simulation-iso8583-style  
-✔ Authorization, reversal, settlement flows  
-✔ Transaction lifecycle validation  
-✔ Payment message simulation (ISO8583-style)  
+📈 Trading Platform Manual Test Cases
 
-👉 Strong focus on real-world payment processing and reconciliation logic
+🔗 https://github.com/Ramonjrtan/binance-manual-test-cases
 
----
+✔ Onboarding and KYC
+✔ Funding and trading workflows
+✔ Execution and validation scenarios
 
-## ⚙️ IoT / Embedded Systems
+🏦 Core Banking QA Portfolio (T24 Simulation)
 
-### 📡 IoT and Embedded QA Portfolio
-🔗 https://github.com/Ramonjrtan/iot-embedded-qa-portfolio  
-✔ Device to API to backend to dashboard  
-✔ Communication protocols validation  
-✔ End-to-end data flow testing  
+🔗 https://github.com/Ramonjrtan/T24-QA-Portfolio
 
----
+✔ Accounts and transaction validation
+✔ Fund transfer workflows
+✔ Maker-checker process
 
-### 🖨 Firmware QA – Printer Testing
-🔗 https://github.com/Ramonjrtan/firmware-qa-embedded-testing-portfolio-printer  
-✔ Print, scan, copy workflows  
-✔ Network and device interaction  
-✔ Firmware behavior validation  
+💳 POS Transaction Flow Simulation (ISO8583-style)
 
-👉 Simulates real-world embedded system testing similar to printer and device environments
+🔗 https://github.com/Ramonjrtan/pos-transaction-flow-simulation-iso8583-style
 
----
+✔ Authorization, reversal, and settlement flows
+✔ Transaction lifecycle validation
+✔ Payment message simulation
 
-## 🏥 Enterprise Systems
+👉 Focus: Real-world payment processing and reconciliation logic
 
-### ☁️ Salesforce Manual Test Cases
-🔗 https://github.com/Ramonjrtan/salesforce-manual-test-cases  
-✔ CRM workflows (Accounts, Leads, Opportunities)  
-✔ End-to-end business process validation  
-✔ Execution tracking with pass and fail reporting  
-✔ Data integrity and integration validation  
+⚙️ IoT / Embedded Systems
+📡 IoT and Embedded QA Portfolio
 
-👉 Demonstrates structured manual QA testing aligned with real Salesforce implementations
+🔗 https://github.com/Ramonjrtan/iot-embedded-qa-portfolio
 
----
+✔ Device → API → backend → dashboard validation
+✔ Communication protocol testing
+✔ End-to-end data flow validation
 
-### 🏥 Healthcare (OpenMRS)
-🔗 https://github.com/Ramonjrtan/openmrs-healthcare-qa-portfolio  
-✔ Patient workflows  
-✔ Clinical visits  
-✔ Data validation  
+🖨 Firmware QA (Device Simulation)
 
----
+🔗 https://github.com/Ramonjrtan/firmware-qa-embedded-testing-portfolio-printer
 
-### 👥 Workday HRIS Testing
-🔗 https://github.com/Ramonjrtan/workday-hris-testing-portfolio  
-✔ Hire to payroll to performance  
-✔ End-to-end HR workflows  
-✔ Business process validation  
+✔ Print, scan, and device workflows
+✔ Network and system interaction
+✔ Firmware behavior validation
 
----
+👉 Reflects real-world embedded and device-based testing scenarios
 
-## 🛒 E-commerce / SaaS
+🏥 Enterprise Systems
+☁️ CRM Platform Manual Test Cases
 
-### 🛍 Shopify QA Test Cases
-🔗 https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases  
-✔ Product to cart to checkout  
-✔ Payment validation  
-✔ End-to-end user journey  
+🔗 https://github.com/Ramonjrtan/salesforce-manual-test-cases
 
----
+✔ Account, lead, and opportunity workflows
+✔ End-to-end business validation
+✔ Data integrity and reporting checks
 
-# 🤖 Automation Frameworks
+🏥 Healthcare QA (OpenMRS Simulation)
 
-### ⚡ Salesforce Playwright Framework
-🔗 https://github.com/Ramonjrtan/salesforce-playwright-framework  
-✔ CRM workflows (Accounts, Leads, Opportunities)  
-✔ Playwright automation  
-✔ Scalable framework design  
+🔗 https://github.com/Ramonjrtan/openmrs-healthcare-qa-portfolio
 
----
+✔ Patient and clinical workflows
+✔ Data validation and lifecycle tracking
 
-### 🌲 Cypress Automation Framework
+👥 HRIS Testing (Workday Simulation)
+
+🔗 https://github.com/Ramonjrtan/workday-hris-testing-portfolio
+
+✔ Hire to payroll workflows
+✔ Business process validation
+✔ End-to-end HR lifecycle
+
+🛒 E-commerce / SaaS
+🛍 E-commerce QA Test Cases (Shopify Simulation)
+
+🔗 https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases
+
+✔ Product → cart → checkout flow
+✔ Payment validation
+✔ End-to-end user journey
+
+🤖 Automation Frameworks
+⚡ CRM Automation Framework (Playwright)
+
+🔗 https://github.com/Ramonjrtan/salesforce-playwright-framework
+
+✔ Scalable automation design
+✔ End-to-end workflow automation
+✔ Page Object Model structure
+
+🌲 SaaS Automation Framework (Cypress)
+
 🔗 https://github.com/Ramonjrtan/cypress-saas-automation-framework
-✔ Modular test structure  
-✔ UI regression automation  
-✔ CI-ready framework  
 
----
+✔ Modular test architecture
+✔ UI regression automation
+✔ Maintainable and scalable framework
 
-### 🎭 Playwright E-commerce Automation
-🔗 https://github.com/Ramonjrtan/playwright-ecommerce  
-✔ Sorting, cart, checkout  
-✔ End-to-end automation scenarios  
+🎭 E-commerce Automation (Playwright)
 
----
+🔗 https://github.com/Ramonjrtan/playwright-ecommerce
 
-# 🔗 API and Backend Testing
+✔ Sorting, cart, and checkout scenarios
+✔ End-to-end automation flows
 
-### 📬 Postman API Automation
-🔗 https://github.com/Ramonjrtan/postman-user-flow-automation  
-✔ Request chaining  
-✔ Token handling  
-✔ Automated execution  
+🔗 API & Backend Testing
+📬 Postman API Automation
 
----
+🔗 https://github.com/Ramonjrtan/postman-user-flow-automation
 
-# 💡 My Testing Approach
+✔ Request chaining
+✔ Token handling
+✔ Automated API workflows
 
-I focus on understanding how the system works, not just testing screens.
+💡 My Testing Approach
 
-✔ Validate end-to-end workflows  
-✔ Ensure data accuracy and consistency  
-✔ Apply risk-based testing  
-✔ Simulate real-world scenarios  
-✔ Think in terms of release readiness  
+I focus on understanding how systems behave, not just validating UI.
 
----
+✔ End-to-end workflow validation
+✔ Data accuracy and consistency
+✔ Risk-based testing
+✔ Real-world scenario simulation
+✔ Release readiness mindset
 
-# 🧠 Real-World Experience
+🧠 Real-World Experience
 
 I have successfully transitioned across industries:
 
-- Financial systems, payments, and POS  
-- Energy, IoT, and smart metering  
-- Maritime platforms  
-- SaaS and enterprise systems  
+Financial systems, payments, and POS
+Energy, IoT, and smart metering
+Maritime platforms
+SaaS and enterprise systems
 
-Even without prior domain experience, I quickly:
+Even without prior domain experience, I consistently:
 
-✔ Understand system flows  
-✔ Identify critical business logic  
-✔ Contribute to testing strategy and execution  
+✔ Understand system architecture and flows
+✔ Identify critical business logic
+✔ Contribute to testing strategy and execution
 
----
+🎯 What I Bring
 
-# 🎯 What I Bring
+✔ 20+ years QA experience
+✔ Strong manual and automation testing
+✔ End-to-end system thinking
+✔ Domain adaptability
+✔ Leadership and QA strategy
 
-✔ 20 plus years QA experience  
-✔ Strong manual and automation testing  
-✔ End-to-end system thinking  
-✔ Domain adaptability  
-✔ Leadership and QA strategy experience  
+📫 Let's Connect
+💼 LinkedIn: https://www.linkedin.com/in/ramon-t-91946710/
+📧 Email: ramonjrtan@gmail.com
 
----
-
-# 📫 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/ramon-t-91946710/
-- 📧 Email: ramonjrtan@gmail.com
-
----
-
-⭐ This portfolio demonstrates how I test systems — not just features, but full business workflows.
+⭐ This portfolio demonstrates how I test systems—from user actions to backend processing—ensuring accuracy, reliability, and business impact.
