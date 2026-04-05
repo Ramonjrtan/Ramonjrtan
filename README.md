@@ -102,7 +102,7 @@ All implementations are **generalized** and do not include any proprietary or co
 
 * Page Object Model design
 * End-to-end workflow automation
-* Modern tooling (TypeScript)
+* Modern tooling (JavaScipt)
 
 ---
 
