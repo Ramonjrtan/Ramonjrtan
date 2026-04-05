@@ -155,6 +155,20 @@ All implementations, test cases, and workflows are **generalized** and do not in
 * End-to-end user journey
 
 ---
+#### 🔄 SaaS Conversion Funnel QA Portfolio (Stripe-style)
+
+🔗 https://github.com/Ramonjrtan/saas-conversion-funnel-qa-portfolio
+
+* End-to-end funnel validation: signup → onboarding → API setup → payment → billing
+* API testing with Postman (assertions, chaining, data validation)
+* Payment workflow validation (success, failure, retries)
+* Subscription and billing lifecycle testing
+* Data integrity validation across UI → API → backend → dashboard
+* Funnel drop-off and conversion risk analysis
+
+> Focus: Testing SaaS systems where failures directly impact **user conversion, activation, and revenue**, ensuring reliable end-to-end workflows
+
+---
 
 ## 🤖 Automation Frameworks
 
