@@ -110,8 +110,6 @@ All implementations are **generalized** and do not include any proprietary or co
 
 ---
 
----
-
 ## 🧩 Additional QA Portfolio (Domain Coverage)
 
 👉 Demonstrates **adaptability across industries and system types**
