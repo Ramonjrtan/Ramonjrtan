@@ -223,6 +223,20 @@ In addition to UI and system testing, I validate APIs as a critical layer of sys
 
 ---
 
+### 🔬 Semiconductor Equipment QA Portfolio (NEW)
+
+🔗 https://github.com/Ramonjrtan/semiconductor-equipment-qa-portfolio
+
+* 50+ system-level test cases covering wafer handling, sensors, control software, and reporting
+* End-to-end validation of hardware → software → data workflows
+* Data integrity validation across machine logs, backend, and dashboard
+* Failure simulation and recovery scenario testing
+* Production-aligned test design and execution tracking
+
+> Focus: Validating complex semiconductor systems where **hardware, software, and data must work together reliably**, with emphasis on **system integration, accuracy, and production readiness**
+
+---
+
 ## 💡 My Testing Approach
 
 I focus on understanding **how systems behave**, not just validating UI.
