@@ -20,6 +20,20 @@ All implementations, test cases, and workflows are **generalized** and do not in
 
 ### 💳 FinTech / Payments / Banking
 
+#### 🎰 Casino Platform QA Testing Portfolio (NEW)
+
+🔗 https://github.com/Ramonjrtan/qa-casino-platform-testing-portfolio
+
+* Wallet, betting, and compliance-focused test coverage
+* End-to-end validation of transaction-heavy regulated workflows
+* Realistic Excel test cases for wallet, betting, and responsible gaming scenarios
+* Postman collection covering balance, deposit, withdrawal, betting, and restriction flows
+* Test strategy focused on risk, auditability, and financial accuracy
+
+> Focus: Simulated testing for **regulated gaming platforms**, emphasizing **transaction integrity, compliance controls, and end-to-end system behavior**
+
+---
+
 #### 📊 Retail Payments Data Warehouse QA
 
 🔗 https://github.com/Ramonjrtan/retail-payments-data-qa-portfolio-
@@ -154,7 +168,6 @@ All implementations, test cases, and workflows are **generalized** and do not in
 * Payment validation
 * End-to-end user journey
 
----
 #### 🔄 SaaS Conversion Funnel QA Portfolio (Stripe-style)
 
 🔗 https://github.com/Ramonjrtan/saas-conversion-funnel-qa-portfolio
@@ -167,6 +180,20 @@ All implementations, test cases, and workflows are **generalized** and do not in
 * Funnel drop-off and conversion risk analysis
 
 > Focus: Testing SaaS systems where failures directly impact **user conversion, activation, and revenue**, ensuring reliable end-to-end workflows
+
+---
+
+### 🔬 Semiconductor Equipment QA Portfolio (NEW)
+
+🔗 https://github.com/Ramonjrtan/semiconductor-equipment-qa-portfolio
+
+* 50+ system-level test cases covering wafer handling, sensors, control software, and reporting
+* End-to-end validation of hardware → software → data workflows
+* Data integrity validation across machine logs, backend, and dashboard
+* Failure simulation and recovery scenario testing
+* Production-aligned test design and execution tracking
+
+> Focus: Validating complex semiconductor systems where **hardware, software, and data must work together reliably**, with emphasis on **system integration, accuracy, and production readiness**
 
 ---
 
@@ -213,8 +240,6 @@ All implementations, test cases, and workflows are **generalized** and do not in
 
 > Focus: Ensuring APIs behave correctly from **request → processing → response**, with emphasis on **data integrity, reliability, and real-world scenarios**
 
----
-
 #### 📬 Postman API Automation
 
 🔗 https://github.com/Ramonjrtan/postman-user-flow-automation
@@ -234,20 +259,6 @@ In addition to UI and system testing, I validate APIs as a critical layer of sys
 * Testing negative and edge-case scenarios
 * Ensuring consistency between API and backend data
 * Supporting integration and microservices validation
-
----
-
-### 🔬 Semiconductor Equipment QA Portfolio (NEW)
-
-🔗 https://github.com/Ramonjrtan/semiconductor-equipment-qa-portfolio
-
-* 50+ system-level test cases covering wafer handling, sensors, control software, and reporting
-* End-to-end validation of hardware → software → data workflows
-* Data integrity validation across machine logs, backend, and dashboard
-* Failure simulation and recovery scenario testing
-* Production-aligned test design and execution tracking
-
-> Focus: Validating complex semiconductor systems where **hardware, software, and data must work together reliably**, with emphasis on **system integration, accuracy, and production readiness**
 
 ---
 
