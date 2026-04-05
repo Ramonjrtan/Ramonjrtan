@@ -1,14 +1,9 @@
 # 👋 Hi, I'm Ramon Tan Jr
 
-🎯 Senior QA Engineer with 20+ years of experience testing **transaction-heavy, regulated, and enterprise systems** across FinTech, SaaS, IoT, and embedded platforms.
+🎯 Senior QA Engineer with 20+ years of experience delivering high-quality software across **FinTech, SaaS, IoT, and Enterprise platforms**.
 
 I specialize in **end-to-end system validation** — ensuring systems behave correctly from  
-**user input → API → backend → data → output**, with strong focus on:
-
-✔ Data integrity  
-✔ Business workflows  
-✔ Risk-based testing  
-✔ Real-world scenarios  
+**data input → API processing → backend → output**, with strong focus on **data integrity, workflows, and real-world business scenarios**.
 
 ---
 
@@ -20,165 +15,209 @@ All implementations are **generalized** and do not include any proprietary or co
 
 ---
 
-# 🚀 Featured QA Portfolio (High-Impact Work)
+# 🚀 Featured QA Portfolio (Top Projects)
+
+👉 These represent my **strongest, most relevant work across regulated and transaction-heavy systems**
 
 ---
 
-## 💳 Regulated Systems / Transactions (Core Strength)
+## 🎰 Regulated Systems / Transaction Platforms
 
-### 🎰 Casino Platform QA Testing (NEW)
+### 🎰 Casino Platform QA Testing Portfolio (NEW)
 🔗 https://github.com/Ramonjrtan/qa-casino-platform-testing-portfolio
 
-* Wallet, betting, and compliance testing
-* End-to-end transaction validation
-* Postman API collection (deposit, withdraw, bet flows)
-* Excel-based test cases (wallet, betting, responsible gaming)
-* Risk-based testing strategy for regulated systems
-
-> Focus: **Financial accuracy, auditability, and compliance in transaction systems**
+- Wallet, betting, and compliance validation
+- Transaction integrity and audit scenarios
+- Excel test cases + Postman collections
+- Risk-based testing approach
 
 ---
 
-### 💰 FinTech Wallet Testing (LiquidPay)
-🔗 https://github.com/Ramonjrtan/fintech-wallet-testing-liquidpay
-
-* Deposit, transfer, payment workflows
-* Negative and edge-case scenarios
-* End-to-end validation
-
----
-
-### 💳 POS Transaction Simulation (ISO8583)
+### 💳 POS Transaction Flow Simulation (ISO8583-style)
 🔗 https://github.com/Ramonjrtan/pos-transaction-flow-simulation-iso8583-style
 
-* Authorization, reversal, settlement flows
-* Transaction lifecycle validation
-* Backend + API behavior
+- Authorization, reversal, settlement flows  
+- Payment lifecycle validation  
+- Backend + API consistency  
 
 ---
 
-### 🏦 Core Banking QA (T24 Simulation)
+### 🏦 Core Banking QA Portfolio (T24 Simulation)
 🔗 https://github.com/Ramonjrtan/T24-QA-Portfolio
 
-* Fund transfers and account validation
-* Maker-checker workflow
-* Financial data integrity
+- Fund transfers, accounts, maker-checker  
+- Transaction validation across lifecycle  
 
 ---
 
-## 🔌 API & Data Validation (Backend Focus)
+## 💳 FinTech / Payments
 
-### 📊 Payments Data Warehouse QA
+### 💰 FinTech Digital Wallet (LiquidPay)
+🔗 https://github.com/Ramonjrtan/fintech-wallet-testing-liquidpay
+
+- End-to-end payment workflows  
+- Edge cases and negative scenarios  
+- Acceptance-driven validation  
+
+---
+
+### 📊 Retail Payments Data Warehouse QA
 🔗 https://github.com/Ramonjrtan/retail-payments-data-qa-portfolio-
 
-* ETL validation
-* Data reconciliation
-* BI reporting validation
+- ETL validation  
+- Data reconciliation  
+- BI dashboard verification  
 
 ---
 
-### 📬 API Testing Portfolio (Postman)
+## 🔌 API & Backend Testing
+
+### 📬 API Testing Portfolio (Restful Booker)
 🔗 https://github.com/Ramonjrtan/api-testing-portfolio-restful-booker
 
-* REST API validation (CRUD, auth, error handling)
-* Request/response validation
-* Data consistency checks
+- CRUD operations, authentication  
+- Response validation + negative testing  
+- End-to-end API workflows  
 
 ---
 
-## ⚙️ Automation Frameworks
+### 📬 Postman API Automation
+🔗 https://github.com/Ramonjrtan/postman-user-flow-automation
 
-### 🌲 Cypress Automation Framework (SaaS)
-🔗 https://github.com/Ramonjrtan/cypress-saas-automation-framework
-
-* Scalable UI automation framework
-* CI/CD-ready structure
-* Modular and maintainable design
+- Request chaining  
+- Token handling  
+- Automated workflows  
 
 ---
 
-### ⚡ Playwright Automation (Modern Stack)
+## 🤖 Automation Frameworks
+
+### ⚡ Playwright Automation (CRM)
 🔗 https://github.com/Ramonjrtan/salesforce-playwright-framework
 
-* Page Object Model design
-* End-to-end workflow automation
-* Modern tooling (JavaScipt)
+- Scalable automation framework  
+- POM structure  
+- End-to-end workflows  
 
 ---
 
-## 🌐 Complex Systems (Adaptability Across Domains)
+### 🌲 Cypress SaaS Automation Framework
+🔗 https://github.com/Ramonjrtan/cypress-saas-automation-framework
 
-### 📡 Telematics / IoT QA
-🔗 https://github.com/Ramonjrtan/telematics-fleet-management-qa-portfolio
-
-* Device → API → backend → dashboard validation
-* Real-time and delayed data flows
-* GPS and vehicle telemetry testing
+- Modular architecture  
+- UI regression automation  
+- CI/CD-ready design  
 
 ---
 
-### 🖨 Embedded / Firmware QA
-🔗 https://github.com/Ramonjrtan/firmware-qa-embedded-testing-portfolio-printer
+---
 
-* Device workflows (print, scan)
-* System integration testing
-* Firmware behavior validation
+# 🧩 Additional QA Portfolio (Domain Coverage)
+
+👉 Demonstrates **adaptability across industries and system types**
 
 ---
 
-### 🏥 Healthcare QA (OpenMRS)
-🔗 https://github.com/Ramonjrtan/openmrs-healthcare-qa-portfolio
+## 🪙 Trading / Web3 / Exchange Systems
 
-* Patient workflows
-* Data lifecycle validation
-* End-to-end system behavior
+- 🔗 Crypto QA Portfolio  
+  https://github.com/Ramonjrtan/crypto-qa-portfolio  
 
----
+- 🔗 Binance Web3 Wallet  
+  https://github.com/Ramonjrtan/binance-web3-wallet-test-cases  
 
-# 💡 My Testing Approach
-
-I focus on validating **how systems behave end-to-end**, not just UI.
-
-✔ Workflow validation across all layers  
-✔ Data accuracy and reconciliation  
-✔ Risk-based testing (focus on high-impact areas)  
-✔ Real-world scenario simulation  
-✔ Strong API and backend validation  
+- 🔗 Binance Trading Platform  
+  https://github.com/Ramonjrtan/binance-manual-test-cases  
 
 ---
 
-# 🧠 Real-World Experience
+## ⚙️ IoT / Embedded Systems
 
-I’ve successfully worked across:
+- 🔗 Telematics Fleet Management  
+  https://github.com/Ramonjrtan/telematics-fleet-management-qa-portfolio  
 
-* Payments, POS, and financial systems  
-* IoT and smart metering platforms  
-* Maritime and logistics systems  
-* SaaS and enterprise applications  
+- 🔗 IoT Embedded QA  
+  https://github.com/Ramonjrtan/iot-embedded-qa-portfolio  
 
-👉 I quickly understand:
-- System architecture  
-- Data flows  
-- Business-critical logic  
+- 🔗 Firmware QA (Printer Simulation)  
+  https://github.com/Ramonjrtan/firmware-qa-embedded-testing-portfolio-printer  
+
+---
+
+## 🏥 Enterprise Systems
+
+- 🔗 Salesforce CRM  
+  https://github.com/Ramonjrtan/salesforce-manual-test-cases  
+
+- 🔗 OpenMRS Healthcare  
+  https://github.com/Ramonjrtan/openmrs-healthcare-qa-portfolio  
+
+- 🔗 Workday HRIS  
+  https://github.com/Ramonjrtan/workday-hris-testing-portfolio  
+
+---
+
+## 🛒 SaaS / E-commerce
+
+- 🔗 Shopify QA  
+  https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases  
+
+- 🔗 SaaS Conversion Funnel  
+  https://github.com/Ramonjrtan/saas-conversion-funnel-qa-portfolio  
+
+---
+
+## 🔬 Semiconductor Systems
+
+- 🔗 Semiconductor Equipment QA  
+  https://github.com/Ramonjrtan/semiconductor-equipment-qa-portfolio  
+
+---
+
+# 🧠 Testing Approach
+
+I focus on validating **how systems behave in real-world conditions**, not just UI.
+
+- End-to-end workflow validation  
+- Data accuracy and consistency  
+- Risk-based testing  
+- Transaction and system integrity  
+- Distributed system validation  
+
+---
+
+# 💼 Real-World Experience
+
+I have successfully worked across:
+
+- Financial systems, payments, POS  
+- IoT, embedded systems, smart metering  
+- Maritime platforms  
+- SaaS and enterprise applications  
+
+I consistently:
+
+- Understand system architecture quickly  
+- Identify critical business logic  
+- Contribute to quality strategy and execution  
 
 ---
 
 # 🎯 What I Bring
 
-✔ 20+ years QA experience  
-✔ Strong manual + automation testing  
-✔ End-to-end system thinking  
-✔ Experience in regulated environments  
-✔ Leadership and quality ownership mindset  
+- 20+ years QA experience  
+- Strong manual + automation skills  
+- API + backend validation expertise  
+- End-to-end system thinking  
+- Leadership and mentoring  
 
 ---
 
 # 📫 Let's Connect
 
-* LinkedIn: https://www.linkedin.com/in/ramon-t-91946710/  
-* Email: ramonjrtan@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/ramon-t-91946710/  
+- Email: ramonjrtan@gmail.com  
 
 ---
 
-⭐ I test systems the way they behave in real life —  
-ensuring they are **accurate, stable, and production-ready**.
+⭐ This portfolio reflects how I validate systems end-to-end — ensuring they are **accurate, reliable, and production-ready**.
