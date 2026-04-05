@@ -101,13 +101,13 @@ All implementations are **generalized** and do not include any proprietary or co
 
 ---
 
-### 🌲 Cypress SaaS Automation Framework
-🔗 https://github.com/Ramonjrtan/cypress-saas-automation-framework
+### 🌲 Cypress SaaS E2E Automation Framework  
+🔗 https://github.com/Ramonjrtan/cypress-saas-e2e-automation-framework  
 
-- Modular architecture  
-- UI regression automation  
-- CI/CD-ready design  
-
+- Modular and scalable test architecture  
+- End-to-end workflow validation and UI regression automation  
+- CI/CD-ready framework for reliable and repeatable test execution
+  
 ---
 
 ## 🧩 Additional QA Portfolio (Domain Coverage)
