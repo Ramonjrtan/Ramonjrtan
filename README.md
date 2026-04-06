@@ -76,9 +76,9 @@ All implementations are **generalized** and do not include any proprietary or co
 
 🔗 https://github.com/Ramonjrtan/event-driven-order-platform-qa
 
-End-to-end validation of asynchronous event-driven workflows (API → events → DB)
-Event publishing/consumption testing with focus on idempotency, duplicates, and retries
-Resilience and data integrity validation including out-of-order events, failures, and final-state reconciliation
+- End-to-end validation of asynchronous event-driven workflows (API → events → DB)
+- Event publishing/consumption testing with focus on idempotency, duplicates, and retries
+- Resilience and data integrity validation including out-of-order events, failures, and final-state reconciliation
 
 ---
 
