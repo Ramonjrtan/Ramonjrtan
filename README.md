@@ -72,7 +72,7 @@ All implementations are **generalized** and do not include any proprietary or co
 
 ## 🔌 API & Backend Testing
 
-### 🧠 Event-Driven Order Platform QA (NEW 🚀)
+### 🧠 Event-Driven Order Platform QA
 
 🔗 https://github.com/Ramonjrtan/event-driven-order-platform-qa
 
