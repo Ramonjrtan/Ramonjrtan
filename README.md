@@ -17,7 +17,7 @@ All implementations are **generalized** and do not include any proprietary or co
 
 # 🚀 Featured QA Portfolio (Top Projects)
 
-👉 These represent my **strongest, most relevant work across regulated and transaction-heavy systems**
+👉 These represent my relevant work across regulated and transaction-heavy systems**
 
 ---
 
