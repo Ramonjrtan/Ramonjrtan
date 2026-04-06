@@ -72,6 +72,16 @@ All implementations are **generalized** and do not include any proprietary or co
 
 ## 🔌 API & Backend Testing
 
+### 🧠 Event-Driven Order Platform QA (NEW 🚀)
+
+🔗 https://github.com/Ramonjrtan/event-driven-order-platform-qa
+
+End-to-end validation of asynchronous event-driven workflows (API → events → DB)
+Event publishing/consumption testing with focus on idempotency, duplicates, and retries
+Resilience and data integrity validation including out-of-order events, failures, and final-state reconciliation
+
+---
+
 ### 📬 API Testing Portfolio (Restful Booker)
 🔗 https://github.com/Ramonjrtan/api-testing-portfolio-restful-booker
 
