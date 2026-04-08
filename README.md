@@ -23,7 +23,7 @@ All implementations are **generalized** and do not include any proprietary or co
 
 ## 🎰 Regulated Systems / Transaction Platforms
 
-### 🎰 Casino Platform QA Testing Portfolio (NEW)
+### 🎰 Casino Platform QA Testing Portfolio
 🔗 https://github.com/Ramonjrtan/qa-casino-platform-testing-portfolio
 
 - Wallet, betting, and compliance validation
@@ -168,6 +168,15 @@ https://github.com/Ramonjrtan/firmware-qa-embedded-testing-portfolio-printer
 - Network interaction validation  
 - Firmware behavior and error handling  
 
+## ⚡ Utilities / SAP IS-U Systems
+### 🔌 SAP IS-U Meter-to-Cash QA Portfolio  
+https://github.com/Ramonjrtan/sap-isu-meter-to-cash-qa-portfolio  
+
+- End-to-end meter-to-cash workflow validation (meter reading → billing → invoice)  
+- Device integration and consumption data validation (smart metering context)  
+- Billing calculation, tariff validation, and invoice verification  
+- Data reconciliation across systems ensuring accuracy and consistency  
+- Integration testing across APIs, backend systems, and workflows  
 ---
 
 ## 🏥 Enterprise Systems
