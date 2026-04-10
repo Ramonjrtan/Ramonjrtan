@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ramon Tan Jr
 
-🎯 Senior QA Engineer with 20+ years of experience delivering high-quality systems across **FinTech, SaaS, IoT, Payments, and Enterprise platforms**.
+🎯 Senior QA Engineer with 20+ years of experience delivering high-quality, transaction-critical systems across **FinTech, SaaS, IoT, Payments, and Enterprise platforms**.
 
 I specialize in **end-to-end system validation** — ensuring systems behave correctly from
 **data input → API processing → backend → output**, with strong focus on **data integrity, workflows, and real-world business scenarios**.
@@ -23,7 +23,7 @@ These issues can lead to:
 * incorrect reporting
 * broken user workflows
 
-👉 My focus is identifying these risks **before they reach production**.
+👉 My focus is identifying these risks before they reach production — where they are most costly.
 
 ---
 
@@ -52,12 +52,12 @@ These projects represent my **strongest QA simulations and hands-on implementati
 
 They are based on **real-world system patterns** and designed to demonstrate how I approach:
 
-* end-to-end system validation
-* transaction and payment workflows
-* data integrity and backend consistency
-* risk-based testing in production-like scenarios
+- end-to-end system validation
+- transaction and payment workflows
+- data integrity and backend consistency
+- risk-based testing in production-like scenarios
 
-👉 These reflect how I test and think in real-world systems.
+👉 These projects simulate real-world systems and demonstrate how I approach QA in production environments.
 
 ---
 
@@ -215,18 +215,18 @@ https://github.com/Ramonjrtan/cypress-saas-e2e-automation-framework
 ### 🔗 Telematics Fleet Management QA  
 https://github.com/Ramonjrtan/telematics-fleet-management-qa-portfolio  
 
-- End-to-end validation of device → API → backend → dashboard workflows  
-- GPS tracking, journey detection, and real-time vs delayed data processing  
-- Data integrity and system consistency across distributed components  
+* End-to-end validation of device → API → backend → dashboard workflows  
+* GPS tracking, journey detection, and real-time vs delayed data processing  
+* Data integrity and system consistency across distributed components  
 
 ---
 
 ### 🔗 IoT Embedded QA  
 https://github.com/Ramonjrtan/iot-embedded-qa-portfolio  
 
-- Communication protocol validation and device interaction testing  
-- End-to-end device data flow and backend consistency checks  
-- Failure scenarios and recovery validation  
+* Communication protocol validation and device interaction testing  
+* End-to-end device data flow and backend consistency checks  
+* Failure scenarios and recovery validation  
 
 ---
 
@@ -235,18 +235,18 @@ https://github.com/Ramonjrtan/iot-embedded-qa-portfolio
 ### 🔗 Salesforce CRM QA  
 https://github.com/Ramonjrtan/salesforce-manual-test-cases  
 
-- End-to-end validation of lead → account → opportunity workflows  
-- Business process testing and data integrity validation  
-- Reporting consistency and workflow correctness  
+* nd-to-end validation of lead → account → opportunity workflows  
+* Business process testing and data integrity validation  
+* Reporting consistency and workflow correctness  
 
 ---
 
 ### 🔗 OpenMRS Healthcare QA  
 https://github.com/Ramonjrtan/openmrs-healthcare-qa-portfolio  
 
-- Patient lifecycle and clinical workflow validation  
-- Data integrity and record consistency checks  
-- Healthcare process scenario testing  
+* Patient lifecycle and clinical workflow validation  
+* Data integrity and record consistency checks  
+* Healthcare process scenario testing  
 
 ---
 
@@ -258,33 +258,33 @@ https://github.com/Ramonjrtan/openmrs-healthcare-qa-portfolio
 
 ### 🪙 Trading / Web3 Systems
 
-- Wallet balance and transaction validation  
-- Trade lifecycle testing (order placement → execution → settlement)  
-- API and backend consistency checks for financial data integrity  
+* Wallet balance and transaction validation  
+* Trade lifecycle testing (order placement → execution → settlement)  
+* API and backend consistency checks for financial data integrity  
 
 ---
 
 ### 🧑‍💼 Workday HRIS
 
-- Hire-to-payroll lifecycle validation  
-- Business process workflows and approvals testing  
-- Data integrity and reporting consistency checks  
+* Hire-to-payroll lifecycle validation  
+* Business process workflows and approvals testing  
+* Data integrity and reporting consistency checks  
 
 ---
 
 ### ⚙️ Semiconductor Systems
 
-- Hardware → software → data integration validation  
-- Sensor, control system, and reporting checks  
-- Failure scenarios and system recovery validation  
+* Hardware → software → data integration validation  
+* Sensor, control system, and reporting checks  
+* Failure scenarios and system recovery validation  
 
 ---
 
 ### 🖨️ Firmware / Embedded Systems
 
-- Device workflows (print, scan, network interactions)  
-- Firmware behavior and error handling validation  
-- End-to-end device → system communication testing
+* Device workflows (print, scan, network interactions)  
+* Firmware behavior and error handling validation  
+* End-to-end device → system communication testing
 
 ---
 
@@ -346,7 +346,7 @@ In my work, I consistently:
 
 ---
 
-# 💰 QA Role / Consulting
+# 💰 QA Consulting / Audit Services
 
 I help teams validate **transaction-heavy and distributed systems**.
 
@@ -363,7 +363,7 @@ I help teams validate **transaction-heavy and distributed systems**.
 * SaaS products
 * Payment / POS systems
 
-📩 Message me if you need a QA or system validation support.
+📩 Message me if you need QA or system validation support.
 
 ---
 
@@ -374,4 +374,4 @@ I help teams validate **transaction-heavy and distributed systems**.
 
 ---
 
-⭐ This portfolio reflects how I validate systems end-to-end — ensuring they are **accurate, reliable, and production-ready**.
+⭐ This portfolio demonstrates how I validate systems end-to-end — ensuring they are accurate, reliable, and truly production-ready.
