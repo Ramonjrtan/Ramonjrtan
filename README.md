@@ -95,9 +95,9 @@ https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases
 
 🔗 https://github.com/Ramonjrtan/event-driven-order-platform-qa
 
-- End-to-end validation of asynchronous event-driven workflows (API → events → DB)
-- Event publishing/consumption testing with focus on idempotency, duplicates, and retries
-- Resilience and data integrity validation including out-of-order events, failures, and final-state reconciliation
+- End-to-end validation of asynchronous workflows across API → events → database layers
+- Event publishing and consumption testing with focus on sequencing, idempotency, duplicates, and retries
+- Data integrity and resilience validation including failure handling, out-of-order events, and final-state reconciliation
 
 ---
 
