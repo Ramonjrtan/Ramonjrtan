@@ -25,12 +25,14 @@ All implementations are **generalized** and do not include any proprietary or co
 
 ### 🔗 SaaS Conversion Funnel  
 https://github.com/Ramonjrtan/saas-conversion-funnel-qa-portfolio  
+
 - Workflow testing across UI → API → backend → data consistency
 - API and billing lifecycle validation (subscriptions, retries, webhooks)
 - Conversion, drop-off, and edge-case scenario analysis (duplicates, failures, delays)
 
 ### 🔗 Shopify E-commerce QA  
 https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases  
+
 - Workflow testing across UI → API → backend → order and payment data consistency
 - Payment validation scenarios (success, failure, retries, duplicate prevention)
 - End-to-end user journey and conversion risk testing (cart abandonment, checkout failures, edge cases)
@@ -52,9 +54,9 @@ https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases
 ### 💳 POS Transaction Flow Simulation (ISO8583-style)
 🔗 https://github.com/Ramonjrtan/pos-transaction-flow-simulation-iso8583-style
 
-- Authorization, reversal, settlement flows  
-- Payment lifecycle validation  
-- Backend + API consistency  
+- Full transaction lifecycle testing: authorization, reversal, settlement, and reconciliation
+- Validation of message integrity, API processing, and backend data consistency
+- Identification of financial risk scenarios (duplicate transactions, timeout retries, settlement mismatches)
 
 ---
 
