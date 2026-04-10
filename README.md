@@ -74,9 +74,9 @@ https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases
 ### 💰 FinTech Digital Wallet (LiquidPay)
 🔗 https://github.com/Ramonjrtan/fintech-wallet-testing-liquidpay
 
-- End-to-end payment workflows  
-- Edge cases and negative scenarios  
-- Acceptance-driven validation  
+- Testing of core payment flows with edge cases and negative scenarios (failures, retries, duplicates)
+- Acceptance-driven validation ensuring correct behavior across UI → API → backend → data consistency
+- Focus on transaction integrity, wallet balance accuracy, and reliable payment lifecycle handling
 
 ---
 
