@@ -21,6 +21,22 @@ All implementations are **generalized** and do not include any proprietary or co
 
 ---
 
+## 🛒 SaaS / E-commerce
+
+### 🔗 SaaS Conversion Funnel  
+https://github.com/Ramonjrtan/saas-conversion-funnel-qa-portfolio  
+- Workflow testing across UI → API → backend → data consistency
+- API and billing lifecycle validation (subscriptions, retries, webhooks)
+- Conversion, drop-off, and edge-case scenario analysis (duplicates, failures, delays)
+
+### 🔗 Shopify QA  
+https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases  
+- Product → cart → checkout workflows  
+- Payment validation scenarios  
+- End-to-end user journey testing  
+
+---
+
 ## 🎰 Regulated Systems / Transaction Platforms
 
 ### 🎰 Casino Platform QA Testing Portfolio
@@ -198,22 +214,6 @@ https://github.com/Ramonjrtan/workday-hris-testing-portfolio
 - Hire-to-payroll lifecycle validation  
 - Business process and approvals testing  
 - End-to-end HR workflow scenarios  
-
----
-
-## 🛒 SaaS / E-commerce
-
-### 🔗 Shopify QA  
-https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases  
-- Product → cart → checkout workflows  
-- Payment validation scenarios  
-- End-to-end user journey testing  
-
-### 🔗 SaaS Conversion Funnel  
-https://github.com/Ramonjrtan/saas-conversion-funnel-qa-portfolio  
-- Signup → onboarding → payment flow validation  
-- API and billing lifecycle testing  
-- Conversion and drop-off scenario analysis  
 
 ---
 
