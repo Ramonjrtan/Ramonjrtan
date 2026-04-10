@@ -210,25 +210,81 @@ https://github.com/Ramonjrtan/cypress-saas-e2e-automation-framework
 
 ---
 
+## ⚙️ IoT / Embedded Systems
+
+### 🔗 Telematics Fleet Management QA  
+https://github.com/Ramonjrtan/telematics-fleet-management-qa-portfolio  
+
+- End-to-end validation of device → API → backend → dashboard workflows  
+- GPS tracking, journey detection, and real-time vs delayed data processing  
+- Data integrity and system consistency across distributed components  
+
+---
+
+### 🔗 IoT Embedded QA  
+https://github.com/Ramonjrtan/iot-embedded-qa-portfolio  
+
+- Communication protocol validation and device interaction testing  
+- End-to-end device data flow and backend consistency checks  
+- Failure scenarios and recovery validation  
+
+---
+
+## 🏥 Enterprise Systems
+
+### 🔗 Salesforce CRM QA  
+https://github.com/Ramonjrtan/salesforce-manual-test-cases  
+
+- End-to-end validation of lead → account → opportunity workflows  
+- Business process testing and data integrity validation  
+- Reporting consistency and workflow correctness  
+
+---
+
+### 🔗 OpenMRS Healthcare QA  
+https://github.com/Ramonjrtan/openmrs-healthcare-qa-portfolio  
+
+- Patient lifecycle and clinical workflow validation  
+- Data integrity and record consistency checks  
+- Healthcare process scenario testing  
+
+---
+
 ## 🧩 Additional Domain Coverage
+
+👉 Demonstrates adaptability across different system types and industries
+
+---
 
 ### 🪙 Trading / Web3 Systems
 
-* Wallet and transaction validation
-* Trade lifecycle and settlement
-* API/backend consistency checks
+- Wallet balance and transaction validation  
+- Trade lifecycle testing (order placement → execution → settlement)  
+- API and backend consistency checks for financial data integrity  
 
-### ⚙️ IoT / Embedded Systems
+---
 
-* Device → API → backend → dashboard validation
-* Protocol and data flow testing
-* Real-time and delayed processing scenarios
+### 🧑‍💼 Workday HRIS
 
-### 🏥 Enterprise Systems
+- Hire-to-payroll lifecycle validation  
+- Business process workflows and approvals testing  
+- Data integrity and reporting consistency checks  
 
-* CRM, Healthcare, HRIS workflows
-* Business process validation
-* Data integrity and reporting checks
+---
+
+### ⚙️ Semiconductor Systems
+
+- Hardware → software → data integration validation  
+- Sensor, control system, and reporting checks  
+- Failure scenarios and system recovery validation  
+
+---
+
+### 🖨️ Firmware / Embedded Systems
+
+- Device workflows (print, scan, network interactions)  
+- Firmware behavior and error handling validation  
+- End-to-end device → system communication testing
 
 ---
 
