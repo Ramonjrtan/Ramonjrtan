@@ -154,17 +154,12 @@ https://github.com/Ramonjrtan/crypto-qa-portfolio
 - Trade lifecycle testing covering order placement, execution, settlement, and history
 - API and backend consistency checks to ensure accurate balances, records, and financial integrity
 
-### 🔗 Binance Web3 Wallet  
-https://github.com/Ramonjrtan/binance-web3-wallet-test-cases  
-- Wallet creation and recovery flows  
-- Transaction and gas fee validation  
-- dApp interaction scenarios  
+### 🔗 Crypto Platform QA Portfolio (Exchange + Web3 Wallet)
+https://github.com/Ramonjrtan/Crypto-Platform-QA-Portfolio-Exchange-Web3-Wallet
 
-### 🔗 Binance Trading Platform  
-https://github.com/Ramonjrtan/binance-manual-test-cases  
-- User onboarding and KYC validation  
-- Funding and trading workflows  
-- Order execution and result verification  
+- End-to-end validation of crypto exchange and Web3 wallet systems across user workflows, APIs, and backend layers
+- Trading lifecycle and wallet validation covering onboarding, KYC, funding, order execution, balances, and recovery flows
+- Transaction integrity and consistency checks including gas fees, dApp interactions, and backend reconciliation
 
 ---
 
