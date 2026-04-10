@@ -52,12 +52,12 @@ These projects represent my **strongest QA simulations and hands-on implementati
 
 They are based on **real-world system patterns** and designed to demonstrate how I approach:
 
-- end-to-end system validation
-- transaction and payment workflows
-- data integrity and backend consistency
-- risk-based testing in production-like scenarios
+* end-to-end system validation
+* transaction and payment workflows
+* data integrity and backend consistency
+* risk-based testing in production-like scenarios
 
-👉 These projects simulate real-world systems and demonstrate how I approach QA in production environments.
+👉 These projects simulate real-world systems and demonstrate how I approach QA in production environments — focusing on risk, data integrity, and end-to-end system behavior.
 
 ---
 
@@ -212,41 +212,45 @@ https://github.com/Ramonjrtan/cypress-saas-e2e-automation-framework
 
 ## ⚙️ IoT / Embedded Systems
 
-### 🔗 Telematics Fleet Management QA  
-https://github.com/Ramonjrtan/telematics-fleet-management-qa-portfolio  
+### 🔗 Telematics Fleet Management QA
 
-* End-to-end validation of device → API → backend → dashboard workflows  
-* GPS tracking, journey detection, and real-time vs delayed data processing  
-* Data integrity and system consistency across distributed components  
+https://github.com/Ramonjrtan/telematics-fleet-management-qa-portfolio
+
+* End-to-end validation of device → API → backend → dashboard workflows
+* GPS tracking, journey detection, and real-time vs delayed data processing
+* Data integrity and system consistency across distributed components
 
 ---
 
-### 🔗 IoT Embedded QA  
-https://github.com/Ramonjrtan/iot-embedded-qa-portfolio  
+### 🔗 IoT Embedded QA
 
-* Communication protocol validation and device interaction testing  
-* End-to-end device data flow and backend consistency checks  
-* Failure scenarios and recovery validation  
+https://github.com/Ramonjrtan/iot-embedded-qa-portfolio
+
+* Communication protocol validation and device interaction testing
+* End-to-end device data flow and backend consistency checks
+* Failure scenarios and recovery validation
 
 ---
 
 ## 🏥 Enterprise Systems
 
-### 🔗 Salesforce CRM QA  
-https://github.com/Ramonjrtan/salesforce-manual-test-cases  
+### 🔗 Salesforce CRM QA
 
-* nd-to-end validation of lead → account → opportunity workflows  
-* Business process testing and data integrity validation  
-* Reporting consistency and workflow correctness  
+https://github.com/Ramonjrtan/salesforce-manual-test-cases
+
+* End-to-end validation of lead → account → opportunity workflows
+* Business process testing and data integrity validation
+* Reporting consistency and workflow correctness
 
 ---
 
-### 🔗 OpenMRS Healthcare QA  
-https://github.com/Ramonjrtan/openmrs-healthcare-qa-portfolio  
+### 🔗 OpenMRS Healthcare QA
 
-* Patient lifecycle and clinical workflow validation  
-* Data integrity and record consistency checks  
-* Healthcare process scenario testing  
+https://github.com/Ramonjrtan/openmrs-healthcare-qa-portfolio
+
+* Patient lifecycle and clinical workflow validation
+* Data integrity and record consistency checks
+* Healthcare process scenario testing
 
 ---
 
@@ -258,32 +262,32 @@ https://github.com/Ramonjrtan/openmrs-healthcare-qa-portfolio
 
 ### 🪙 Trading / Web3 Systems
 
-* Wallet balance and transaction validation  
-* Trade lifecycle testing (order placement → execution → settlement)  
-* API and backend consistency checks for financial data integrity  
+* Wallet balance and transaction validation
+* Trade lifecycle testing (order placement → execution → settlement)
+* API and backend consistency checks for financial data integrity
 
 ---
 
 ### 🧑‍💼 Workday HRIS
 
-* Hire-to-payroll lifecycle validation  
-* Business process workflows and approvals testing  
-* Data integrity and reporting consistency checks  
+* Hire-to-payroll lifecycle validation
+* Business process workflows and approvals testing
+* Data integrity and reporting consistency checks
 
 ---
 
 ### ⚙️ Semiconductor Systems
 
-* Hardware → software → data integration validation  
-* Sensor, control system, and reporting checks  
-* Failure scenarios and system recovery validation  
+* Hardware → software → data integration validation
+* Sensor, control system, and reporting checks
+* Failure scenarios and system recovery validation
 
 ---
 
 ### 🖨️ Firmware / Embedded Systems
 
-* Device workflows (print, scan, network interactions)  
-* Firmware behavior and error handling validation  
+* Device workflows (print, scan, network interactions)
+* Firmware behavior and error handling validation
 * End-to-end device → system communication testing
 
 ---
