@@ -63,8 +63,9 @@ https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases
 ### 🏦 Core Banking QA Portfolio (T24 Simulation)
 🔗 https://github.com/Ramonjrtan/T24-QA-Portfolio
 
-- Fund transfers, accounts, maker-checker  
-- Transaction validation across lifecycle  
+- Full transaction lifecycle testing: account creation, fund transfers, maker-checker authorization, and reconciliation
+- Validation of financial data integrity, balances, and audit trails across modules
+- Identification of compliance and financial risk scenarios (unauthorized transactions, balance mismatches, missing audit logs)
 
 ---
 
