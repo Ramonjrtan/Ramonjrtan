@@ -44,10 +44,10 @@ https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases
 ### 🎰 Casino Platform QA Testing Portfolio
 🔗 https://github.com/Ramonjrtan/qa-casino-platform-testing-portfolio
 
-- Wallet, betting, and compliance validation
-- Transaction integrity and audit scenarios
-- Excel test cases + Postman collections
-- Risk-based testing approach
+- Wallet, betting, and compliance-focused validation across transaction-heavy user flows
+- Transaction integrity, payout accuracy, and audit trail scenarios
+- Excel-based test cases with Postman collections for API and backend validation
+- Risk-based testing approach focused on financial accuracy, fairness, and reporting consistency
 
 ---
 
