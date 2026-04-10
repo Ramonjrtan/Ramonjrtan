@@ -83,9 +83,9 @@ https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases
 ### 📊 Retail Payments Data Warehouse QA
 🔗 https://github.com/Ramonjrtan/retail-payments-data-qa-portfolio-
 
-- ETL validation  
-- Data reconciliation  
-- BI dashboard verification  
+- End-to-end validation of retail payments data pipelines from source to dashboard
+- ETL, reconciliation, and data quality checks across transactional datasets
+- BI dashboard verification to ensure KPI accuracy, consistency, and reporting integrity
 
 ---
 
