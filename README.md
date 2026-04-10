@@ -150,9 +150,9 @@ https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases
 ### 🔗 Crypto QA Portfolio  
 https://github.com/Ramonjrtan/crypto-qa-portfolio  
 
--Wallet balance and transaction validation across deposits, withdrawals, and transfers
--Trade lifecycle testing covering order placement, execution, settlement, and history
--API and backend consistency checks to ensure accurate balances, records, and financial integrity
+- Wallet balance and transaction validation across deposits, withdrawals, and transfers
+- Trade lifecycle testing covering order placement, execution, settlement, and history
+- API and backend consistency checks to ensure accurate balances, records, and financial integrity
 
 ### 🔗 Binance Web3 Wallet  
 https://github.com/Ramonjrtan/binance-web3-wallet-test-cases  
