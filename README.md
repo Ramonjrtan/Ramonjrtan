@@ -29,11 +29,11 @@ https://github.com/Ramonjrtan/saas-conversion-funnel-qa-portfolio
 - API and billing lifecycle validation (subscriptions, retries, webhooks)
 - Conversion, drop-off, and edge-case scenario analysis (duplicates, failures, delays)
 
-### 🔗 Shopify QA  
+### 🔗 Shopify E-commerce QA  
 https://github.com/Ramonjrtan/shopify-ecommerce-qa-testcases  
-- Product → cart → checkout workflows  
-- Payment validation scenarios  
-- End-to-end user journey testing  
+- Workflow testing across UI → API → backend → order and payment data consistency
+- Payment validation scenarios (success, failure, retries, duplicate prevention)
+- End-to-end user journey and conversion risk testing (cart abandonment, checkout failures, edge cases)
 
 ---
 
