@@ -61,27 +61,25 @@ They are based on **real-world system patterns** and designed to demonstrate how
 
 ---
 
-* 🧩 **Mobile POS Pre-Scanning QA (System Integration)**
-  https://github.com/Ramonjrtan/mobile-pos-linebuster-qa  
-  → End-to-end system integration testing (device → backend → POS)  
-  → Mobile transaction workflow validation and queue optimization scenario  
-  → Data integrity validation across handheld, API, and POS systems  
+* 🧩 Mobile POS Pre-Scanning QA (System Integration) 
+https://github.com/Ramonjrtan/mobile-pos-linebuster-qa  
+→ End-to-end system integration testing across device → backend → POS with data integrity validation  
 
-* 💰 **FinTech Digital Wallet (LiquidPay)**
-  https://github.com/Ramonjrtan/fintech-wallet-testing-liquidpay  
-  → Workflow and transaction validation (wallet → transfer → balance consistency)
+* 💰 FinTech Digital Wallet (LiquidPay) 
+https://github.com/Ramonjrtan/fintech-wallet-testing-liquidpay  
+→ End-to-end wallet transaction validation ensuring balance consistency and workflow accuracy  
 
-* 💳 **POS Transaction Flow (ISO8583-style)**
-  https://github.com/Ramonjrtan/pos-transaction-flow-simulation-iso8583-style  
-  → Payment lifecycle validation (authorization → reversal → settlement)
+* 💳 POS Transaction Flow (ISO8583-style) 
+https://github.com/Ramonjrtan/pos-transaction-flow-simulation-iso8583-style  
+→ Payment lifecycle validation covering authorization, reversal, and settlement flows  
 
-* 🏦 **Core Banking QA (T24 Simulation)**
-  https://github.com/Ramonjrtan/T24-QA-Portfolio  
-  → Maker-checker workflows and financial data integrity validation
+* 🏦 Core Banking QA (T24 Simulation) 
+https://github.com/Ramonjrtan/T24-QA-Portfolio  
+→ Core banking workflow validation with maker-checker controls and financial data integrity  
 
-* 🧠 **Event-Driven Order Platform QA**
-  https://github.com/Ramonjrtan/event-driven-order-platform-qa  
-  → Asynchronous system validation (API → events → DB consistency)
+* 🧠 Event-Driven Order Platform QA 
+https://github.com/Ramonjrtan/event-driven-order-platform-qa  
+→ Asynchronous system validation ensuring API, event, and database consistency  
 
 ---
 
