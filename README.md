@@ -60,6 +60,8 @@ They are based on **real-world system patterns** and designed to demonstrate how
 👉 These projects simulate real-world systems and demonstrate how I approach QA in production environments — focusing on risk, data integrity, and end-to-end system behavior.
 
 ---
+* 🧩 **Retail POS System Integration Testing QA**
+  https://github.com/Ramonjrtan/pos-system-integration-testing-qa
 
 * 💰 **FinTech Digital Wallet (LiquidPay)**
   https://github.com/Ramonjrtan/fintech-wallet-testing-liquidpay
@@ -153,6 +155,17 @@ https://github.com/Ramonjrtan/retail-payments-data-qa-portfolio-
 * End-to-end validation of payment data pipelines
 * ETL, reconciliation, and data quality checks
 * BI dashboard verification for reporting accuracy
+
+---
+
+### 🧩 Retail POS System Integration Testing QA
+
+https://github.com/Ramonjrtan/pos-system-integration-testing-qa
+
+* End-to-end validation of retail transaction workflows across POS, integrations, and backend systems
+* System Integration Testing coverage for payments, gift cards, returns, and audit/data flows
+* Data integrity validation across UI → API → backend → logs/reporting
+* Risk-based testing approach focused on business-critical and transaction-heavy scenarios
 
 ---
 
