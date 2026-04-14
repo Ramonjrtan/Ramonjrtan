@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ramon Tan Jr
 
-🎯 Senior QA Engineer with 20+ years of experience delivering high-quality, transaction-critical systems across **FinTech, SaaS, IoT, Payments, and Enterprise platforms**.
+🎯 Senior QA Engineer with 20+ years of experience delivering high-quality, transaction-critical systems across **FinTech, SaaS, IoT, Payments, Retail POS, and Enterprise platforms**.
 
-I specialize in **end-to-end system validation** — ensuring systems behave correctly from
+I specialize in **end-to-end system validation and system integration testing** — ensuring systems behave correctly from
 **data input → API processing → backend → output**, with strong focus on **data integrity, workflows, and real-world business scenarios**.
 
 ---
@@ -72,11 +72,8 @@ They are based on **real-world system patterns** and designed to demonstrate how
 * 🏦 **Core Banking QA (T24 Simulation)**
   https://github.com/Ramonjrtan/T24-QA-Portfolio
 
-* 🛒 **SaaS Conversion Funnel QA**
-  https://github.com/Ramonjrtan/saas-conversion-funnel-qa-portfolio
-
-* 🎰 **Casino Platform QA Testing Portfolio**
-  https://github.com/Ramonjrtan/qa-casino-platform-testing-portfolio
+* 🧠 **Event-Driven Order Platform QA**
+  https://github.com/Ramonjrtan/event-driven-order-platform-qa
 
 ---
 
@@ -358,6 +355,7 @@ In my work, I consistently:
 * 20+ years QA experience
 * Strong manual + automation expertise
 * API + backend validation skills
+* Strong SIT and end-to-end integration validation experience
 * End-to-end system thinking
 * Leadership and mentoring
 
