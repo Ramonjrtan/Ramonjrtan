@@ -60,20 +60,28 @@ They are based on **real-world system patterns** and designed to demonstrate how
 👉 These projects simulate real-world systems and demonstrate how I approach QA in production environments — focusing on risk, data integrity, and end-to-end system behavior.
 
 ---
-* 🧩 **Retail POS System Integration Testing QA**
-  https://github.com/Ramonjrtan/pos-system-integration-testing-qa
+
+* 🧩 **Mobile POS Pre-Scanning QA (System Integration)**
+  https://github.com/Ramonjrtan/mobile-pos-linebuster-qa  
+  → End-to-end system integration testing (device → backend → POS)  
+  → Mobile transaction workflow validation and queue optimization scenario  
+  → Data integrity validation across handheld, API, and POS systems  
 
 * 💰 **FinTech Digital Wallet (LiquidPay)**
-  https://github.com/Ramonjrtan/fintech-wallet-testing-liquidpay
+  https://github.com/Ramonjrtan/fintech-wallet-testing-liquidpay  
+  → Workflow and transaction validation (wallet → transfer → balance consistency)
 
 * 💳 **POS Transaction Flow (ISO8583-style)**
-  https://github.com/Ramonjrtan/pos-transaction-flow-simulation-iso8583-style
+  https://github.com/Ramonjrtan/pos-transaction-flow-simulation-iso8583-style  
+  → Payment lifecycle validation (authorization → reversal → settlement)
 
 * 🏦 **Core Banking QA (T24 Simulation)**
-  https://github.com/Ramonjrtan/T24-QA-Portfolio
+  https://github.com/Ramonjrtan/T24-QA-Portfolio  
+  → Maker-checker workflows and financial data integrity validation
 
 * 🧠 **Event-Driven Order Platform QA**
-  https://github.com/Ramonjrtan/event-driven-order-platform-qa
+  https://github.com/Ramonjrtan/event-driven-order-platform-qa  
+  → Asynchronous system validation (API → events → DB consistency)
 
 ---
 
@@ -164,6 +172,14 @@ https://github.com/Ramonjrtan/pos-system-integration-testing-qa
 * Data integrity validation across UI → API → backend → logs/reporting
 * Risk-based testing approach focused on business-critical and transaction-heavy scenarios
 
+---
+
+🧩 **Mobile POS Pre-Scanning QA (System Integration)**
+  https://github.com/Ramonjrtan/mobile-pos-linebuster-qa  
+  → End-to-end system integration testing (device → backend → POS)  
+  → Mobile transaction workflow validation and queue optimization scenario  
+  → Data integrity validation across handheld, API, and POS systems  
+  
 ---
 
 ## 🔌 API & Backend Testing
