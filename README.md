@@ -19,8 +19,6 @@ I test **how systems behave in real-world conditions** — not just UI.
 
 # ⭐ Featured Projects (Start Here)
 
-👉 These are my **strongest and most relevant QA portfolios**
-
 ---
 
 ## 🚀 Enterprise Order-to-Cash QA (MOST COMPLETE)
