@@ -60,6 +60,7 @@ They are based on **real-world system patterns** and designed to demonstrate how
 👉 These projects simulate real-world systems and demonstrate how I approach QA in production environments — focusing on risk, data integrity, and end-to-end system behavior.
 
 ---
+
 * ⚡ Smart Metering QA Portfolio (Smart Metering / AMI system)
 https://github.com/Ramonjrtan/smart-metering-qa-portfolio
 → End-to-end validation of AMI systems (device → communication → backend → billing)
