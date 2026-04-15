@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Ramon Tan Jr
 
-🎯 Senior QA Engineer with 20+ years of experience delivering high-quality, transaction-critical systems across **FinTech, SaaS, IoT, Payments, Retail POS, and Enterprise platforms**.
+🎯 Senior QA Engineer with 20+ years of experience delivering high-quality, transaction-critical systems across FinTech, SaaS, IoT, Payments, Retail POS, and Enterprise platforms.
 
-I specialize in **end-to-end system validation and system integration testing** — ensuring systems behave correctly from
-**data input → API processing → backend → output**, with strong focus on **data integrity, workflows, and real-world business scenarios**.
+I specialize in end-to-end system validation and system integration testing — ensuring systems behave correctly from
+data input → API processing → backend → output, with strong focus on data integrity, workflows, and real-world business scenarios.
+
+I have hands-on experience in smart metering and IoT systems, validating data flow from field devices through communication layers into backend and billing systems, aligned with real-world AMI environments.
 
 ---
 
