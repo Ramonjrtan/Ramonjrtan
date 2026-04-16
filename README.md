@@ -19,13 +19,22 @@ I test **how systems behave in real-world conditions** — not just UI.
 
 # ⭐ Featured Projects (Start Here)
 
-## 🚀 Enterprise Order-to-Cash QA (MOST COMPLETE)
+## 🚀 Enterprise Order-to-Cash QA
 
 🔗 https://github.com/Ramonjrtan/enterprise-order-to-cash-qa-portfolio  
 
 ✔ CRM → Orders → Payments → Accounting → Reconciliation  
 ✔ 84 test cases (Excel execution suite)  
 ✔ Financial + integration validation  
+
+---
+
+## ⚙️ IoT / Embedded / Smart Metering System
+
+🔗 https://github.com/Ramonjrtan/smart-metering-qa-portfolio
+
+✔ Device → communication → backend validation  
+✔ Real-time + distributed systems  
 
 ---
 
